@@ -47,9 +47,3 @@ logomedicalbit-12.png      logo
 Parte del toolkit de **MedicalBit** (startup de tecnología médica): simulador laparoscópico para
 entrenamiento y modelos anatómicos impresos en 3D. Este visor es la pieza web que se usaba para
 revisar cada modelo antes de imprimirlo.
-
-## Nota
-
-Los nombres de los casos/modelos están visibles en los títulos de las páginas y en los nombres de
-archivo de las mallas. Si el repo se mantiene público, conviene reemplazarlos por etiquetas
-genéricas (`modelo-01`, etc.).
